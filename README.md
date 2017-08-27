@@ -3,6 +3,8 @@ NEOVIM ALE BUG
 
 After u, dd delete 2 lines...
 
+[https://github.com/w0rp/ale/issues/879](https://github.com/w0rp/ale/issues/879)
+
 How to reproduce
 ----------------
 
